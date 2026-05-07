@@ -92,10 +92,12 @@ Jira, Confluence, Agile (SCRUM), SDLC
 ## 🏆 Participation & Achievements
 
 - NASSCOM Forum Volunteer (2023 & 2025)
-- Smart India Hackathon 2025 — Advanced to Round 2
+- Smart India Hackathon 2025
 - Worked on a Cross-Border SME Aggregator startup idea
 - Attended Bangalore AI Forum 2025
-- Participated in Business Success Workshops by Rajiv Talreja
+- Attended Rakuten Product Conference 2026
+- Participated in Lyzr.ai + Hidevs Agentic AI builder Workshops, gaining knowledge and building Agents using tools
+- Participated in Business Success Workshops by leading coach Mr.Rajiv Talreja
 
 ---
 
@@ -111,7 +113,8 @@ Jira, Confluence, Agile (SCRUM), SDLC
 
 ### B.Tech — Information Science Engineering
 New Horizon College of Engineering  
-CGPA: 7.61 (Current)
+### PUC - PCME
+St. Joseph's Pre University College
 
 ---
 
@@ -121,7 +124,7 @@ CGPA: 7.61 (Current)
 - Product Analytics
 - AI Workflows
 - Growth Strategy
-- Scalable Business Systems
+- Digital Transformation of Businesses
 
 ---
 
